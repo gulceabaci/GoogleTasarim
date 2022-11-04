@@ -1,0 +1,50 @@
+.resim {
+    width: 351px;
+    aspect-ratio: auto 351 / 113;
+    height: 113px;
+}
+.genelCenter {
+    display: block;
+    text-align: -webkit-center;
+}
+.table {
+border-top-width: 0px;
+border-right-width: 0px;
+border-bottom-width: 0px;
+border-left-width: 0px;
+width: 90%;
+}
+.tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+#buton1 {
+    box-sizing:border-box;
+}
+#buton2 {
+    box-sizing:border-box;
+}
+.td {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+}
+.center{
+    display: block;
+    text-align: -webkit-center;
+}
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.font {
+    font-size: small;
+}
